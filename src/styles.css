@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  background-color: black;
+}
+
+.wrapper {
+  background-color: #191919;
+  width: 400px;
+  height: 300px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.greetingMsg {
+  margin-bottom: 70px;
+  background-color: #191919;
+}
+input {
+  height: 30px;
+  width: 80%;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  height: 30px;
+  width: 80%;
+  background-color: #02fdb1;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
