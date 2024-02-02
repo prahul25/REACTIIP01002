@@ -37,3 +37,7 @@ Make sure you have the following installed on your machine:
    ## Deployment
 
 The application is deployed and can be accessed at https://codesandbox.io/p/github/prahul25/REACTIIP01002/draft/stoic-volhard
+
+![Screenshot (308)](https://github.com/prahul25/REACTIIP01002/assets/141947406/77418840-ae0c-4ebb-89eb-46fad5078c74)
+![Screenshot (309)](https://github.com/prahul25/REACTIIP01002/assets/141947406/168abb10-1983-4cb0-b15b-000fc491cc4f)
+![Screenshot (311)](https://github.com/prahul25/REACTIIP01002/assets/141947406/aefb5c70-6e4e-4be3-9d23-0cb5dc337a2a)
